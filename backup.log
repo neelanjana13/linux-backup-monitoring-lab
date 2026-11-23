@@ -1,0 +1,24 @@
+2026-11-23 20:53:00 | SUCCESS | /home/neelanjana/backup-lab/backups/backup_2026-11-23_20-53-00.tar.gz | 4.0K
+2026-11-23 20:53:00 | RETENTION | removed 0 old backup(s) | -
+2026-11-23 20:58:01 | SUCCESS | /home/neelanjana/backup-lab/backups/backup_2026-11-23_20-58-01.tar.gz | 4.0K
+2026-11-23 20:58:01 | RETENTION | removed 0 old backup(s) | -
+2026-11-23 20:59:01 | SUCCESS | /home/neelanjana/backup-lab/backups/backup_2026-11-23_20-59-01.tar.gz | 4.0K
+2026-11-23 20:59:01 | RETENTION | removed 0 old backup(s) | -
+2026-11-23 21:00:01 | SUCCESS | /home/neelanjana/backup-lab/backups/backup_2026-11-23_21-00-01.tar.gz | 4.0K
+2026-11-23 21:00:01 | RETENTION | removed 0 old backup(s) | -
+2026-11-23 21:01:01 | SUCCESS | /home/neelanjana/backup-lab/backups/backup_2026-11-23_21-01-01.tar.gz | 4.0K
+2026-11-23 21:01:01 | RETENTION | removed 0 old backup(s) | -
+2026-11-23 21:02:01 | SUCCESS | /home/neelanjana/backup-lab/backups/backup_2026-11-23_21-02-01.tar.gz | 4.0K
+2026-11-23 21:02:01 | RETENTION | removed 0 old backup(s) | -
+2026-11-23 21:03:01 | SUCCESS | /home/neelanjana/backup-lab/backups/backup_2026-11-23_21-03-01.tar.gz | 4.0K
+2026-11-23 21:03:01 | RETENTION | removed 0 old backup(s) | -
+2026-11-23 21:04:01 | SUCCESS | /home/neelanjana/backup-lab/backups/backup_2026-11-23_21-04-01.tar.gz | 4.0K
+2026-11-23 21:04:01 | RETENTION | removed 0 old backup(s) | -
+2026-11-23 21:05:01 | SUCCESS | /home/neelanjana/backup-lab/backups/backup_2026-11-23_21-05-01.tar.gz | 4.0K
+2026-11-23 21:05:01 | RETENTION | removed 0 old backup(s) | -
+2026-11-23 21:06:14 | SUCCESS | /home/neelanjana/backup-lab/backups/backup_2026-11-23_21-06-14.tar.gz | 4.0K
+2026-11-23 21:06:14 | RETENTION | removed 0 old backup(s) | -
+2026-11-23 21:06:43 | FAILED | /home/neelanjana/backup-lab/backups/backup_2026-11-23_21-06-43.tar.gz | tar error
+2026-11-23 21:06:43 | RETENTION | removed 0 old backup(s) | -
+2026-11-23 21:08:50 | SUCCESS | /home/neelanjana/backup-lab/backups/backup_2026-11-23_21-08-50.tar.gz | 4.0K
+2026-11-23 21:08:50 | RETENTION | removed 0 old backup(s) | -
